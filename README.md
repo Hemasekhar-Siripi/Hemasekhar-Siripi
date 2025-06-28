@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemasekhar-Siripi
-- 👀 I’m interested in Full Stack Development...
-- 🌱 I’m currently learning python with ML , Core Java, HTML&CSS and SQL
+- 👀 I’m interested in AI/ML...
+- 🌱 I’m currently learning python with ML , java, HTML&CSS ,SQL,LLMs,RAG.
 - 💞️ I’m looking to collaborate with all of you."I'm looking forward to collaborating with anyone "
 - 📫 You can reach me at this adress. You can reach me at siripireddyhemasekhar@gmail.com
 
